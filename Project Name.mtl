@@ -1,0 +1,45 @@
+newmtl Bizarre
+Kd 0.020 0.024 0.024
+d 1.000
+newmtl Disco LIghts
+Kd 0.024 0.024 0.024
+d 1.000
+newmtl Maya
+Kd 0.016 0.016 0.016
+d 1.000
+newmtl Atoll
+Kd 0.012 0.016 0.016
+d 1.000
+newmtl Picasso
+Kd 0.996 0.800 0.200
+d 1.000
+newmtl Azul
+Kd 0.996 0.804 0.200
+d 1.000
+newmtl Light Spirit
+Kd 0.016 0.404 0.992
+d 1.000
+newmtl Secret Garden
+Kd 0.008 0.400 0.996
+d 1.000
+newmtl Allure
+Kd 0.008 0.404 0.996
+d 1.000
+newmtl Light Aroma
+Kd 0.008 0.400 0.996
+d 1.000
+newmtl Milton
+Kd 0.024 0.404 0.996
+d 1.000
+newmtl Kentucky
+Kd 0.008 0.400 0.996
+d 1.000
+newmtl Coral Garden
+Kd 0.996 0.800 0.204
+d 1.000
+newmtl Skyline
+Kd 0.992 0.804 0.227
+d 1.000
+newmtl Prestige
+Kd 0.992 0.808 0.275
+d 1.000
