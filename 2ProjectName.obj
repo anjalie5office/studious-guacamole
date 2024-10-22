@@ -1,5 +1,5 @@
 # Vectary OBJ Export units=mm
-mtllib Project Name.mtl
+mtllib 2ProjectName.mtl
 o 000_Path
 g Path
 usemtl Bizarre
